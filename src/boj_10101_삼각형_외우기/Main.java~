@@ -2,6 +2,7 @@ package boj_10101_삼각형_외우기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
+import java.io.InputStream;
 import java.io.InputStreamReader;
 
 public class Main {
