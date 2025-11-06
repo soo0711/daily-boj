@@ -1,53 +1,59 @@
 import os
 from urllib import parse
 
-HEADER="""#
+HEADER = """#
 # 백준, 프로그래머스 문제 풀이 목록
 """
 
 def main():
-  content = ""
-  content += HEADER
+    content = HEADER + "\n"
 
-  directories = []
-  solveds = []
+    directories = []
 
-  for root, dirs, files in os.walk("."):
-    dirs.sort()
-    if root == '.':
-      for dir in ('.git', '.github'):
-        try:
-          dirs.remove(dir)
-        except ValueError:
-          pass
-      continue
+    for root, dirs, files in os.walk("."):
+        dirs.sort()
+        if root == '.':
+            for dir_name in ('.git', '.github'):
+                try:
+                    dirs.remove(dir_name)
+                except ValueError:
+                    pass
+            continue
 
-    category = os.path.basename(root)
+        category = os.path.basename(root)
+        if category == 'images':
+            continue
 
-    if category == 'images':
-      continue
+        parent_dir = os.path.basename(os.path.dirname(root))
+        if parent_dir == '.':
+            continue
 
-    directory = os.path.basename(os.path.dirname(root))
+        # 상위 폴더 섹션
+        if parent_dir not in directories:
+            if parent_dir in ["백준", "프로그래머스"]:
+                content += f"## 📚 {parent_dir}\n\n"
+            else:
+                content += f"### 🚀 {parent_dir}\n"
+                content += "| 문제번호 | 링크 |\n"
+                content += "| ----- | ----- |\n"
+            directories.append(parent_dir)
 
-    if directory == '.':
-      continue
+        # 파일별 링크 추가
+        for file in files:
+            parts = category.split("_", 2)  # ['boj', '123', '더하기']
+            if len(parts) >= 3:
+                problem_number = parts[1]
+                problem_name = parts[2]
+            else:
+                problem_number = category
+                problem_name = category
 
-    if directory not in directories:
-      if directory in ["백준", "프로그래머스"]:
-        content += "## 📚 {}\n".format(directory)
-      else:
-        content += "### 🚀 {}\n".format(directory)
-        content += "| 문제번호 | 링크 |\n"
-        content += "| ----- | ----- |\n"
-      directories.append(directory)
+            display_text = f"{problem_number}. {problem_name}"
+            file_path = parse.quote(os.path.join(root, file))
+            content += f"|{display_text}|[링크]({file_path})|\n"
 
-    for file in files:
-      if category not in solveds:
-        content += "|{}|[링크]({})|\n".format(category, parse.quote(os.path.join(root, file)))
-        solveds.append(category)
-
-  with open("README.md", "w") as fd:
-    fd.write(content)
+    with open("README.md", "w", encoding="utf-8") as fd:
+        fd.write(content)
 
 if __name__ == "__main__":
-  main()
+    main()
