@@ -1,39 +1,33 @@
 import os
 from urllib import parse
 
-HEADER = """#
-# 백준, 프로그래머스 문제 풀이 목록
+HEADER = """# 백준, 프로그래머스 문제 풀이 목록
+
+## 🚀 문제 목록
 """
 
 def main():
     content = HEADER + "\n"
-    directories = []
+    content += "| 문제번호 | 링크 |\n"
+    content += "| ----- | ----- |\n"
 
     for root, dirs, files in os.walk("src"):
         dirs.sort()
         if 'images' in dirs:
             dirs.remove('images')
 
-        # 상위 폴더
+        if root == "src":
+            continue
+
         parent_dir = os.path.basename(root)
-        if parent_dir not in directories:
-            content += f"### 🚀 {parent_dir}\n"
-            content += "| 문제번호 | 링크 |\n"
-            content += "| ----- | ----- |\n"
-            directories.append(parent_dir)
 
-        for file in files:
-            name_parts = file.split("_", 2)
-            if len(name_parts) >= 3:
-                problem_number = name_parts[1]
-                problem_name = name_parts[2].rsplit(".", 1)[0]  # 확장자 제거
-            else:
-                problem_number = name_parts[0]
-                problem_name = name_parts[0]
+        dir_parts = parent_dir.split("_", 2)
+        if len(dir_parts) >= 3:
+            problem_number = dir_parts[1]
+            problem_name = dir_parts[2].replace("_", " ")
 
-            display_text = f"{problem_number}. {problem_name}"
-            file_path = parse.quote(os.path.join(root, file))
-            content += f"|{display_text}|[링크]({file_path})|\n"
+            folder_path = parse.quote(root)
+            content += f"| {problem_number}. {problem_name} | [링크]({folder_path}) |\n"
 
     with open("README.md", "w", encoding="utf-8") as fd:
         fd.write(content)
