@@ -51,6 +51,7 @@
 | 24511. queuestack | [링크](src/boj_24511_queuestack) |
 | 24723. 녹색거탑 | [링크](src/boj_24723_%EB%85%B9%EC%83%89%EA%B1%B0%ED%83%91) |
 | 2485. 가로수 | [링크](src/boj_2485_%EA%B0%80%EB%A1%9C%EC%88%98) |
+| 25192. 인사성 밝은 곰곰이 | [링크](src/boj_25192_%EC%9D%B8%EC%82%AC%EC%84%B1_%EB%B0%9D%EC%9D%80_%EA%B3%B0%EA%B3%B0%EC%9D%B4) |
 | 25305. 커트라인 | [링크](src/boj_25305_%EC%BB%A4%ED%8A%B8%EB%9D%BC%EC%9D%B8) |
 | 2587. 대표값2 | [링크](src/boj_2587_%EB%8C%80%ED%91%9C%EA%B0%922) |
 | 2750. 수 정렬하기 | [링크](src/boj_2750_%EC%88%98_%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0) |
