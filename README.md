@@ -84,3 +84,4 @@
 | 9063. 대지 | [링크](src/boj_9063_%EB%8C%80%EC%A7%80) |
 | 12987. 숫자 게임 | [링크](src/programmers_12987_%EC%88%AB%EC%9E%90_%EA%B2%8C%EC%9E%84) |
 | 62048. 멀쩡한 사각형 | [링크](src/programmers_62048_%EB%A9%80%EC%A9%A1%ED%95%9C_%EC%82%AC%EA%B0%81%ED%98%95) |
+| 81302. 거리두기 확인하기 | [링크](src/programmers_81302_%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0_%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0) |
