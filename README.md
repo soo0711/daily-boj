@@ -89,4 +89,5 @@
 | 17679. 1차 프렌즈4블록 | [링크](src/programmers_17679_1%EC%B0%A8_%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D) |
 | 42888. 오픈채팅방 | [링크](src/programmers_42888_%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9) |
 | 62048. 멀쩡한 사각형 | [링크](src/programmers_62048_%EB%A9%80%EC%A9%A1%ED%95%9C_%EC%82%AC%EA%B0%81%ED%98%95) |
+| 72411. 메뉴 리뉴얼 | [링크](src/programmers_72411_%EB%A9%94%EB%89%B4_%EB%A6%AC%EB%89%B4%EC%96%BC) |
 | 81302. 거리두기 확인하기 | [링크](src/programmers_81302_%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0_%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0) |
