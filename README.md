@@ -84,6 +84,7 @@
 | 9012. 괄호 | [링크](src/boj_9012_%EA%B4%84%ED%98%B8) |
 | 9063. 대지 | [링크](src/boj_9063_%EB%8C%80%EC%A7%80) |
 | 9663. N Queen | [링크](src/boj_9663_N_Queen) |
+| 12939. 최댓값 최솟값 | [링크](src/programmers_12939_%EC%B5%9C%EB%8C%93%EA%B0%92_%EC%B5%9C%EC%86%9F%EA%B0%92) |
 | 12987. 숫자 게임 | [링크](src/programmers_12987_%EC%88%AB%EC%9E%90_%EA%B2%8C%EC%9E%84) |
 | 17679. 1차 프렌즈4블록 | [링크](src/programmers_17679_1%EC%B0%A8_%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D) |
 | 42888. 오픈채팅방 | [링크](src/programmers_42888_%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9) |
