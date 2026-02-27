@@ -84,6 +84,7 @@
 | 9012. 괄호 | [링크](src/boj_9012_%EA%B4%84%ED%98%B8) |
 | 9063. 대지 | [링크](src/boj_9063_%EB%8C%80%EC%A7%80) |
 | 9663. N Queen | [링크](src/boj_9663_N_Queen) |
+| 12909. 올바른 괄호 | [링크](src/programmers_12909_%EC%98%AC%EB%B0%94%EB%A5%B8_%EA%B4%84%ED%98%B8) |
 | 12939. 최댓값 최솟값 | [링크](src/programmers_12939_%EC%B5%9C%EB%8C%93%EA%B0%92_%EC%B5%9C%EC%86%9F%EA%B0%92) |
 | 12951. JadenCase 문자열 만들기 | [링크](src/programmers_12951_JadenCase_%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%A7%8C%EB%93%A4%EA%B8%B0) |
 | 12987. 숫자 게임 | [링크](src/programmers_12987_%EC%88%AB%EC%9E%90_%EA%B2%8C%EC%9E%84) |
