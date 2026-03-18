@@ -100,4 +100,5 @@
 | 62048. 멀쩡한 사각형 | [링크](src/programmers_62048_%EB%A9%80%EC%A9%A1%ED%95%9C_%EC%82%AC%EA%B0%81%ED%98%95) |
 | 70129. 이진 변환 반복하기 | [링크](src/programmers_70129_%EC%9D%B4%EC%A7%84_%EB%B3%80%ED%99%98_%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0) |
 | 72411. 메뉴 리뉴얼 | [링크](src/programmers_72411_%EB%A9%94%EB%89%B4_%EB%A6%AC%EB%89%B4%EC%96%BC) |
+| 77885. 2개 이하로 다른 비트 | [링크](src/programmers_77885_2%EA%B0%9C_%EC%9D%B4%ED%95%98%EB%A1%9C_%EB%8B%A4%EB%A5%B8_%EB%B9%84%ED%8A%B8) |
 | 81302. 거리두기 확인하기 | [링크](src/programmers_81302_%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0_%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0) |
