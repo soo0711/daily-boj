@@ -86,6 +86,7 @@
 | 9663. N Queen | [링크](src/boj_9663_N_Queen) |
 | 12906. 같은 숫자는 싫어 | [링크](src/programmers_12906_%EA%B0%99%EC%9D%80_%EC%88%AB%EC%9E%90%EB%8A%94_%EC%8B%AB%EC%96%B4) |
 | 12909. 올바른 괄호 | [링크](src/programmers_12909_%EC%98%AC%EB%B0%94%EB%A5%B8_%EA%B4%84%ED%98%B8) |
+| 12911. 다음 큰 숫자 | [링크](src/programmers_12911_%EB%8B%A4%EC%9D%8C_%ED%81%B0_%EC%88%AB%EC%9E%90) |
 | 12924. 숫자의 표현 | [링크](src/programmers_12924_%EC%88%AB%EC%9E%90%EC%9D%98_%ED%91%9C%ED%98%84) |
 | 12939. 최댓값 최솟값 | [링크](src/programmers_12939_%EC%B5%9C%EB%8C%93%EA%B0%92_%EC%B5%9C%EC%86%9F%EA%B0%92) |
 | 12941. 최솟값 만들기 | [링크](src/programmers_12941_%EC%B5%9C%EC%86%9F%EA%B0%92_%EB%A7%8C%EB%93%A4%EA%B8%B0) |
