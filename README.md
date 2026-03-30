@@ -92,6 +92,7 @@
 | 12941. 최솟값 만들기 | [링크](src/programmers_12941_%EC%B5%9C%EC%86%9F%EA%B0%92_%EB%A7%8C%EB%93%A4%EA%B8%B0) |
 | 12951. JadenCase 문자열 만들기 | [링크](src/programmers_12951_JadenCase_%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%A7%8C%EB%93%A4%EA%B8%B0) |
 | 12979. 기지국 설치 | [링크](src/programmers_12979_%EA%B8%B0%EC%A7%80%EA%B5%AD_%EC%84%A4%EC%B9%98) |
+| 12980. 점프와 순간 이동 | [링크](src/programmers_12980_%EC%A0%90%ED%94%84%EC%99%80_%EC%88%9C%EA%B0%84_%EC%9D%B4%EB%8F%99) |
 | 12987. 숫자 게임 | [링크](src/programmers_12987_%EC%88%AB%EC%9E%90_%EA%B2%8C%EC%9E%84) |
 | 17679. 1차 프렌즈4블록 | [링크](src/programmers_17679_1%EC%B0%A8_%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D) |
 | 1844. 게임 맵 최단거리 | [링크](src/programmers_1844_%EA%B2%8C%EC%9E%84_%EB%A7%B5_%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC) |
