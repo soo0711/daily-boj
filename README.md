@@ -99,6 +99,7 @@
 | 42842. 카펫 | [링크](src/programmers_42842_%EC%B9%B4%ED%8E%AB) |
 | 42885. 구명보트 | [링크](src/programmers_42885_%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8) |
 | 42888. 오픈채팅방 | [링크](src/programmers_42888_%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9) |
+| 42895. N으로 표현 | [링크](src/programmers_42895_N%EC%9C%BC%EB%A1%9C_%ED%91%9C%ED%98%84) |
 | 43162. 네트워크 | [링크](src/programmers_43162_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC) |
 | 43164. 여행경로 | [링크](src/programmers_43164_%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C) |
 | 43165. 타겟 넘버 | [링크](src/programmers_43165_%ED%83%80%EA%B2%9F_%EB%84%98%EB%B2%84) |
