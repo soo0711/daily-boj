@@ -103,6 +103,7 @@
 | 43162. 네트워크 | [링크](src/programmers_43162_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC) |
 | 43164. 여행경로 | [링크](src/programmers_43164_%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C) |
 | 43165. 타겟 넘버 | [링크](src/programmers_43165_%ED%83%80%EA%B2%9F_%EB%84%98%EB%B2%84) |
+| 43238. 입국심사 | [링크](src/programmers_43238_%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC) |
 | 60058. 괄호 변환 | [링크](src/programmers_60058_%EA%B4%84%ED%98%B8_%EB%B3%80%ED%99%98) |
 | 62048. 멀쩡한 사각형 | [링크](src/programmers_62048_%EB%A9%80%EC%A9%A1%ED%95%9C_%EC%82%AC%EA%B0%81%ED%98%95) |
 | 70129. 이진 변환 반복하기 | [링크](src/programmers_70129_%EC%9D%B4%EC%A7%84_%EB%B3%80%ED%99%98_%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0) |
