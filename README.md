@@ -95,6 +95,7 @@
 | 12953. N개의 최소공배수 | [링크](src/programmers_12953_N%EA%B0%9C%EC%9D%98_%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98) |
 | 12979. 기지국 설치 | [링크](src/programmers_12979_%EA%B8%B0%EC%A7%80%EA%B5%AD_%EC%84%A4%EC%B9%98) |
 | 12980. 점프와 순간 이동 | [링크](src/programmers_12980_%EC%A0%90%ED%94%84%EC%99%80_%EC%88%9C%EA%B0%84_%EC%9D%B4%EB%8F%99) |
+| 12981. 영어 끝말잇기 | [링크](src/programmers_12981_%EC%98%81%EC%96%B4_%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0) |
 | 12987. 숫자 게임 | [링크](src/programmers_12987_%EC%88%AB%EC%9E%90_%EA%B2%8C%EC%9E%84) |
 | 138476. 귤 고르기 | [링크](src/programmers_138476_%EA%B7%A4_%EA%B3%A0%EB%A5%B4%EA%B8%B0) |
 | 154540. 무인도 여행 | [링크](src/programmers_154540_%EB%AC%B4%EC%9D%B8%EB%8F%84_%EC%97%AC%ED%96%89) |
