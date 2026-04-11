@@ -96,6 +96,7 @@
 | 12979. 기지국 설치 | [링크](src/programmers_12979_%EA%B8%B0%EC%A7%80%EA%B5%AD_%EC%84%A4%EC%B9%98) |
 | 12980. 점프와 순간 이동 | [링크](src/programmers_12980_%EC%A0%90%ED%94%84%EC%99%80_%EC%88%9C%EA%B0%84_%EC%9D%B4%EB%8F%99) |
 | 12981. 영어 끝말잇기 | [링크](src/programmers_12981_%EC%98%81%EC%96%B4_%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0) |
+| 12985. 예상 대진표 | [링크](src/programmers_12985_%EC%98%88%EC%83%81_%EB%8C%80%EC%A7%84%ED%91%9C) |
 | 12987. 숫자 게임 | [링크](src/programmers_12987_%EC%88%AB%EC%9E%90_%EA%B2%8C%EC%9E%84) |
 | 131127. 할인 행사 | [링크](src/programmers_131127_%ED%95%A0%EC%9D%B8_%ED%96%89%EC%82%AC) |
 | 131701. 연속 부분 수열 합의 개수 | [링크](src/programmers_131701_%EC%97%B0%EC%86%8D_%EB%B6%80%EB%B6%84_%EC%88%98%EC%97%B4_%ED%95%A9%EC%9D%98_%EA%B0%9C%EC%88%98) |
