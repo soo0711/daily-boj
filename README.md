@@ -84,6 +84,7 @@
 | 9012. 괄호 | [링크](src/boj_9012_%EA%B4%84%ED%98%B8) |
 | 9063. 대지 | [링크](src/boj_9063_%EB%8C%80%EC%A7%80) |
 | 9663. N Queen | [링크](src/boj_9663_N_Queen) |
+| 12905. 가장 큰 정사각형 찾기 | [링크](src/programmers_12905_%EA%B0%80%EC%9E%A5_%ED%81%B0_%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95_%EC%B0%BE%EA%B8%B0) |
 | 12906. 같은 숫자는 싫어 | [링크](src/programmers_12906_%EA%B0%99%EC%9D%80_%EC%88%AB%EC%9E%90%EB%8A%94_%EC%8B%AB%EC%96%B4) |
 | 12909. 올바른 괄호 | [링크](src/programmers_12909_%EC%98%AC%EB%B0%94%EB%A5%B8_%EA%B4%84%ED%98%B8) |
 | 12911. 다음 큰 숫자 | [링크](src/programmers_12911_%EB%8B%A4%EC%9D%8C_%ED%81%B0_%EC%88%AB%EC%9E%90) |
