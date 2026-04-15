@@ -106,6 +106,7 @@
 | 17679. 1차 프렌즈4블록 | [링크](src/programmers_17679_1%EC%B0%A8_%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D) |
 | 17683. 3차 방금그곡 | [링크](src/programmers_17683_3%EC%B0%A8_%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1) |
 | 1844. 게임 맵 최단거리 | [링크](src/programmers_1844_%EA%B2%8C%EC%9E%84_%EB%A7%B5_%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC) |
+| 42747. H Index | [링크](src/programmers_42747_H_Index) |
 | 42842. 카펫 | [링크](src/programmers_42842_%EC%B9%B4%ED%8E%AB) |
 | 42885. 구명보트 | [링크](src/programmers_42885_%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8) |
 | 42888. 오픈채팅방 | [링크](src/programmers_42888_%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9) |
