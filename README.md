@@ -124,3 +124,4 @@
 | 77885. 2개 이하로 다른 비트 | [링크](src/programmers_77885_2%EA%B0%9C_%EC%9D%B4%ED%95%98%EB%A1%9C_%EB%8B%A4%EB%A5%B8_%EB%B9%84%ED%8A%B8) |
 | 81302. 거리두기 확인하기 | [링크](src/programmers_81302_%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0_%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0) |
 | 87390. n의 제곱 배열 자르기 | [링크](src/programmers_87390_n%EC%9D%98_%EC%A0%9C%EA%B3%B1_%EB%B0%B0%EC%97%B4_%EC%9E%90%EB%A5%B4%EA%B8%B0) |
+| 87946. 피로도 | [링크](src/programmers_87946_%ED%94%BC%EB%A1%9C%EB%8F%84) |
