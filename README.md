@@ -101,6 +101,7 @@
 | 12987. 숫자 게임 | [링크](src/programmers_12987_%EC%88%AB%EC%9E%90_%EA%B2%8C%EC%9E%84) |
 | 131127. 할인 행사 | [링크](src/programmers_131127_%ED%95%A0%EC%9D%B8_%ED%96%89%EC%82%AC) |
 | 131701. 연속 부분 수열 합의 개수 | [링크](src/programmers_131701_%EC%97%B0%EC%86%8D_%EB%B6%80%EB%B6%84_%EC%88%98%EC%97%B4_%ED%95%A9%EC%9D%98_%EA%B0%9C%EC%88%98) |
+| 132265. 롤케이크 자르기 | [링크](src/programmers_132265_%EB%A1%A4%EC%BC%80%EC%9D%B4%ED%81%AC_%EC%9E%90%EB%A5%B4%EA%B8%B0) |
 | 138476. 귤 고르기 | [링크](src/programmers_138476_%EA%B7%A4_%EA%B3%A0%EB%A5%B4%EA%B8%B0) |
 | 154540. 무인도 여행 | [링크](src/programmers_154540_%EB%AC%B4%EC%9D%B8%EB%8F%84_%EC%97%AC%ED%96%89) |
 | 17679. 1차 프렌즈4블록 | [링크](src/programmers_17679_1%EC%B0%A8_%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D) |
