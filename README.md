@@ -113,6 +113,7 @@
 | 42577. 전화번호 목록 | [링크](src/programmers_42577_%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8_%EB%AA%A9%EB%A1%9D) |
 | 42586. 기능개발 | [링크](src/programmers_42586_%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C) |
 | 42587. 프로세스 | [링크](src/programmers_42587_%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4) |
+| 42628. 이중우선순위큐 | [링크](src/programmers_42628_%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90) |
 | 42747. H Index | [링크](src/programmers_42747_H_Index) |
 | 42842. 카펫 | [링크](src/programmers_42842_%EC%B9%B4%ED%8E%AB) |
 | 42885. 구명보트 | [링크](src/programmers_42885_%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8) |
