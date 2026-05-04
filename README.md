@@ -111,6 +111,7 @@
 | 17683. 3차 방금그곡 | [링크](src/programmers_17683_3%EC%B0%A8_%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1) |
 | 1844. 게임 맵 최단거리 | [링크](src/programmers_1844_%EA%B2%8C%EC%9E%84_%EB%A7%B5_%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC) |
 | 42577. 전화번호 목록 | [링크](src/programmers_42577_%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8_%EB%AA%A9%EB%A1%9D) |
+| 42584. 주식가격 | [링크](src/programmers_42584_%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9) |
 | 42586. 기능개발 | [링크](src/programmers_42586_%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C) |
 | 42587. 프로세스 | [링크](src/programmers_42587_%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4) |
 | 42628. 이중우선순위큐 | [링크](src/programmers_42628_%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90) |
