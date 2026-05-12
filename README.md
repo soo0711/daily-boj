@@ -119,6 +119,7 @@
 | 42584. 주식가격 | [링크](src/programmers_42584_%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9) |
 | 42586. 기능개발 | [링크](src/programmers_42586_%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C) |
 | 42587. 프로세스 | [링크](src/programmers_42587_%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4) |
+| 42627. 디스크 컨트롤러 | [링크](src/programmers_42627_%EB%94%94%EC%8A%A4%ED%81%AC_%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC) |
 | 42628. 이중우선순위큐 | [링크](src/programmers_42628_%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90) |
 | 42747. H Index | [링크](src/programmers_42747_H_Index) |
 | 42842. 카펫 | [링크](src/programmers_42842_%EC%B9%B4%ED%8E%AB) |
