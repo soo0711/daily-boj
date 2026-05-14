@@ -141,6 +141,7 @@
 | 72411. 메뉴 리뉴얼 | [링크](src/programmers_72411_%EB%A9%94%EB%89%B4_%EB%A6%AC%EB%89%B4%EC%96%BC) |
 | 72413. 합승 택시 요금 | [링크](src/programmers_72413_%ED%95%A9%EC%8A%B9_%ED%83%9D%EC%8B%9C_%EC%9A%94%EA%B8%88) |
 | 76502. 괄호 회전하기 | [링크](src/programmers_76502_%EA%B4%84%ED%98%B8_%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0) |
+| 77486. 다단계 칫솔 판매 | [링크](src/programmers_77486_%EB%8B%A4%EB%8B%A8%EA%B3%84_%EC%B9%AB%EC%86%94_%ED%8C%90%EB%A7%A4) |
 | 77885. 2개 이하로 다른 비트 | [링크](src/programmers_77885_2%EA%B0%9C_%EC%9D%B4%ED%95%98%EB%A1%9C_%EB%8B%A4%EB%A5%B8_%EB%B9%84%ED%8A%B8) |
 | 81302. 거리두기 확인하기 | [링크](src/programmers_81302_%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0_%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0) |
 | 84512. 모음사전 | [링크](src/programmers_84512_%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84) |
