@@ -109,6 +109,7 @@
 | 138476. 귤 고르기 | [링크](src/programmers_138476_%EA%B7%A4_%EA%B3%A0%EB%A5%B4%EA%B8%B0) |
 | 154539. 뒤에 있는 큰 수 찾기 | [링크](src/programmers_154539_%EB%92%A4%EC%97%90_%EC%9E%88%EB%8A%94_%ED%81%B0_%EC%88%98_%EC%B0%BE%EA%B8%B0) |
 | 154540. 무인도 여행 | [링크](src/programmers_154540_%EB%AC%B4%EC%9D%B8%EB%8F%84_%EC%97%AC%ED%96%89) |
+| 172927. 광물 캐기 | [링크](src/programmers_172927_%EA%B4%91%EB%AC%BC_%EC%BA%90%EA%B8%B0) |
 | 17677. 1차 뉴스 클러스터링 | [링크](src/programmers_17677_1%EC%B0%A8_%EB%89%B4%EC%8A%A4_%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81) |
 | 17679. 1차 프렌즈4블록 | [링크](src/programmers_17679_1%EC%B0%A8_%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D) |
 | 17680. 캐시 | [링크](src/programmers_17680_%EC%BA%90%EC%8B%9C) |
