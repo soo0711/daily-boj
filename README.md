@@ -151,3 +151,4 @@
 | 87390. n의 제곱 배열 자르기 | [링크](src/programmers_87390_n%EC%9D%98_%EC%A0%9C%EA%B3%B1_%EB%B0%B0%EC%97%B4_%EC%9E%90%EB%A5%B4%EA%B8%B0) |
 | 87946. 피로도 | [링크](src/programmers_87946_%ED%94%BC%EB%A1%9C%EB%8F%84) |
 | 92335. k진수에서 소수 개수 구하기 | [링크](src/programmers_92335_k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C_%EC%86%8C%EC%88%98_%EA%B0%9C%EC%88%98_%EA%B5%AC%ED%95%98%EA%B8%B0) |
+| 92341. 주차 요금 계산 | [링크](src/programmers_92341_%EC%A3%BC%EC%B0%A8_%EC%9A%94%EA%B8%88_%EA%B3%84%EC%82%B0) |
