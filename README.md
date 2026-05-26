@@ -120,6 +120,7 @@
 | 17686. 3차 파일명 정렬 | [링크](src/programmers_17686_3%EC%B0%A8_%ED%8C%8C%EC%9D%BC%EB%AA%85_%EC%A0%95%EB%A0%AC) |
 | 17687. 3차 n진수 게임 | [링크](src/programmers_17687_3%EC%B0%A8_n%EC%A7%84%EC%88%98_%EA%B2%8C%EC%9E%84) |
 | 1844. 게임 맵 최단거리 | [링크](src/programmers_1844_%EA%B2%8C%EC%9E%84_%EB%A7%B5_%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC) |
+| 340212. PCCP 기출문제 2번 퍼즐 게임 챌린지 | [링크](src/programmers_340212_PCCP_%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C_2%EB%B2%88_%ED%8D%BC%EC%A6%90_%EA%B2%8C%EC%9E%84_%EC%B1%8C%EB%A6%B0%EC%A7%80) |
 | 42577. 전화번호 목록 | [링크](src/programmers_42577_%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8_%EB%AA%A9%EB%A1%9D) |
 | 42584. 주식가격 | [링크](src/programmers_42584_%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9) |
 | 42586. 기능개발 | [링크](src/programmers_42586_%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C) |
