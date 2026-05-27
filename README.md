@@ -129,6 +129,7 @@
 | 42628. 이중우선순위큐 | [링크](src/programmers_42628_%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90) |
 | 42747. H Index | [링크](src/programmers_42747_H_Index) |
 | 42842. 카펫 | [링크](src/programmers_42842_%EC%B9%B4%ED%8E%AB) |
+| 42884. 단속카메라 | [링크](src/programmers_42884_%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC) |
 | 42885. 구명보트 | [링크](src/programmers_42885_%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8) |
 | 42888. 오픈채팅방 | [링크](src/programmers_42888_%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9) |
 | 42895. N으로 표현 | [링크](src/programmers_42895_N%EC%9C%BC%EB%A1%9C_%ED%91%9C%ED%98%84) |
