@@ -133,6 +133,7 @@
 | 42628. 이중우선순위큐 | [링크](src/programmers_42628_%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90) |
 | 42746. 가장 큰 수 | [링크](src/programmers_42746_%EA%B0%80%EC%9E%A5_%ED%81%B0_%EC%88%98) |
 | 42747. H Index | [링크](src/programmers_42747_H_Index) |
+| 42839. 소수 찾기 | [링크](src/programmers_42839_%EC%86%8C%EC%88%98_%EC%B0%BE%EA%B8%B0) |
 | 42842. 카펫 | [링크](src/programmers_42842_%EC%B9%B4%ED%8E%AB) |
 | 42884. 단속카메라 | [링크](src/programmers_42884_%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC) |
 | 42885. 구명보트 | [링크](src/programmers_42885_%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8) |
