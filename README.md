@@ -126,6 +126,7 @@
 | 340212. PCCP 기출문제 2번 퍼즐 게임 챌린지 | [링크](src/programmers_340212_PCCP_%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C_2%EB%B2%88_%ED%8D%BC%EC%A6%90_%EA%B2%8C%EC%9E%84_%EC%B1%8C%EB%A6%B0%EC%A7%80) |
 | 42577. 전화번호 목록 | [링크](src/programmers_42577_%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8_%EB%AA%A9%EB%A1%9D) |
 | 42579. 베스트앨범 | [링크](src/programmers_42579_%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94) |
+| 42583. 다리를 지나는 트럭 | [링크](src/programmers_42583_%EB%8B%A4%EB%A6%AC%EB%A5%BC_%EC%A7%80%EB%82%98%EB%8A%94_%ED%8A%B8%EB%9F%AD) |
 | 42584. 주식가격 | [링크](src/programmers_42584_%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9) |
 | 42586. 기능개발 | [링크](src/programmers_42586_%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C) |
 | 42587. 프로세스 | [링크](src/programmers_42587_%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4) |
