@@ -100,6 +100,7 @@
 | 12941. 최솟값 만들기 | [링크](src/programmers_12941_%EC%B5%9C%EC%86%9F%EA%B0%92_%EB%A7%8C%EB%93%A4%EA%B8%B0) |
 | 12951. JadenCase 문자열 만들기 | [링크](src/programmers_12951_JadenCase_%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%A7%8C%EB%93%A4%EA%B8%B0) |
 | 12953. N개의 최소공배수 | [링크](src/programmers_12953_N%EA%B0%9C%EC%9D%98_%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98) |
+| 12971. 스티커 모으기2 | [링크](src/programmers_12971_%EC%8A%A4%ED%8B%B0%EC%BB%A4_%EB%AA%A8%EC%9C%BC%EA%B8%B02) |
 | 12979. 기지국 설치 | [링크](src/programmers_12979_%EA%B8%B0%EC%A7%80%EA%B5%AD_%EC%84%A4%EC%B9%98) |
 | 12980. 점프와 순간 이동 | [링크](src/programmers_12980_%EC%A0%90%ED%94%84%EC%99%80_%EC%88%9C%EA%B0%84_%EC%9D%B4%EB%8F%99) |
 | 12981. 영어 끝말잇기 | [링크](src/programmers_12981_%EC%98%81%EC%96%B4_%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0) |
