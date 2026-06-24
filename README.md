@@ -169,6 +169,7 @@
 | 77885. 2개 이하로 다른 비트 | [링크](src/programmers_77885_2%EA%B0%9C_%EC%9D%B4%ED%95%98%EB%A1%9C_%EB%8B%A4%EB%A5%B8_%EB%B9%84%ED%8A%B8) |
 | 81302. 거리두기 확인하기 | [링크](src/programmers_81302_%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0_%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0) |
 | 84512. 모음사전 | [링크](src/programmers_84512_%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84) |
+| 86971. 전력망을 둘로 나누기 | [링크](src/programmers_86971_%EC%A0%84%EB%A0%A5%EB%A7%9D%EC%9D%84_%EB%91%98%EB%A1%9C_%EB%82%98%EB%88%84%EA%B8%B0) |
 | 87390. n의 제곱 배열 자르기 | [링크](src/programmers_87390_n%EC%9D%98_%EC%A0%9C%EA%B3%B1_%EB%B0%B0%EC%97%B4_%EC%9E%90%EB%A5%B4%EA%B8%B0) |
 | 87946. 피로도 | [링크](src/programmers_87946_%ED%94%BC%EB%A1%9C%EB%8F%84) |
 | 92335. k진수에서 소수 개수 구하기 | [링크](src/programmers_92335_k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C_%EC%86%8C%EC%88%98_%EA%B0%9C%EC%88%98_%EA%B5%AC%ED%95%98%EA%B8%B0) |
