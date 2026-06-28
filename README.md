@@ -114,6 +114,7 @@
 | 135807. 숫자 카드 나누기 | [링크](src/programmers_135807_%EC%88%AB%EC%9E%90_%EC%B9%B4%EB%93%9C_%EB%82%98%EB%88%84%EA%B8%B0) |
 | 138476. 귤 고르기 | [링크](src/programmers_138476_%EA%B7%A4_%EA%B3%A0%EB%A5%B4%EA%B8%B0) |
 | 148653. 마법의 엘리베이터 | [링크](src/programmers_148653_%EB%A7%88%EB%B2%95%EC%9D%98_%EC%97%98%EB%A6%AC%EB%B2%A0%EC%9D%B4%ED%84%B0) |
+| 152995. 인사고과 | [링크](src/programmers_152995_%EC%9D%B8%EC%82%AC%EA%B3%A0%EA%B3%BC) |
 | 152996. 시소 짝꿍 | [링크](src/programmers_152996_%EC%8B%9C%EC%86%8C_%EC%A7%9D%EA%BF%8D) |
 | 154539. 뒤에 있는 큰 수 찾기 | [링크](src/programmers_154539_%EB%92%A4%EC%97%90_%EC%9E%88%EB%8A%94_%ED%81%B0_%EC%88%98_%EC%B0%BE%EA%B8%B0) |
 | 154540. 무인도 여행 | [링크](src/programmers_154540_%EB%AC%B4%EC%9D%B8%EB%8F%84_%EC%97%AC%ED%96%89) |
