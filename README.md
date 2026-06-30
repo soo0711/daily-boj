@@ -98,6 +98,7 @@
 | 12938. 최고의 집합 | [링크](src/programmers_12938_%EC%B5%9C%EA%B3%A0%EC%9D%98_%EC%A7%91%ED%95%A9) |
 | 12939. 최댓값 최솟값 | [링크](src/programmers_12939_%EC%B5%9C%EB%8C%93%EA%B0%92_%EC%B5%9C%EC%86%9F%EA%B0%92) |
 | 12941. 최솟값 만들기 | [링크](src/programmers_12941_%EC%B5%9C%EC%86%9F%EA%B0%92_%EB%A7%8C%EB%93%A4%EA%B8%B0) |
+| 12948. 핸드폰 번호 가리기 | [링크](src/programmers_12948_%ED%95%B8%EB%93%9C%ED%8F%B0_%EB%B2%88%ED%98%B8_%EA%B0%80%EB%A6%AC%EA%B8%B0) |
 | 12951. JadenCase 문자열 만들기 | [링크](src/programmers_12951_JadenCase_%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%A7%8C%EB%93%A4%EA%B8%B0) |
 | 12953. N개의 최소공배수 | [링크](src/programmers_12953_N%EA%B0%9C%EC%9D%98_%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98) |
 | 12971. 스티커 모으기2 | [링크](src/programmers_12971_%EC%8A%A4%ED%8B%B0%EC%BB%A4_%EB%AA%A8%EC%9C%BC%EA%B8%B02) |
